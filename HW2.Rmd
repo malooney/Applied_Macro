@@ -2,28 +2,65 @@
 title: "Homework 2"
 author: "Matthew Aaron Looney"
 date: "2/11/2018"
-output: pdf_document
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+header-includes:
+- \usepackage{graphicx}
+- \usepackage{rotating}
+- \usepackage{longtable}
+- \usepackage{amssymb,amsmath}
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Problem 1
 
-### a. In the Lucas Imperfect Information model, producers do not observe the aggregate price level perfectly. How does this model set up a signal extraction problem and how do firms solve it?
+## Romer Assumptions and Formulas:
+
+\begin{equation}
+Y_i=L_i \tag{pg 268, eq 6.37:  output=Labor}
+\end{equation}
+
+\begin{equation}
+\eta \tag{pg 271: elasticity of demand}
+\end{equation}
+
+\begin{equation}
+\frac{1}{{\gamma  - 1}} \tag{pg 271: labor supply elasticity}
+\end{equation}
+
+\begin{equation}
+{C_i} = \frac{{{Y_i}{P_i}}}{P} \tag{pg 293:  revenue over price index}
+\end{equation}
+
+\begin{equation}
+Y = \frac{M}{P} \to \ln (y) = \ln (m) - \ln (p) \tag{pg 269, 6.41: Aggregate Demand }
+\end{equation}
+
+### Problem 1
+
+#### a. In the Lucas Imperfect Information model, producers do not observe the aggregate price level perfectly. How does this model set up a signal extraction problem and how do firms solve it?
+
+Lucas(1972) and Phelps(1970) supposed that prehaps producers do not observe the aggrigate price level perfectly.  
+  
+The model starts with the the standard utility maximization problem of ${U_i} = {C_i} - \frac{1}{\gamma }L_i^\gamma$ (apply above assumptions; revenue over price index and output equals labor). If producers take prices as given and we assume they know their own price and price index then the utility maximizing problem wrt $Y_i$ is given by the following:
+
+\begin{equation}
+\ln ({y_i}) = \frac{1}{{\gamma  - 1}}\left[ {\ln ({p_i}) - \ln (p)} \right] \tag{pg 293, eq 6.75:  }
+\end{equation}
+
+
+
+
+#### b. What is the Lucas supply curve and what are its implications?  How is it different from the expectations-augmented Phillips curve?
 
 
 
 
 
 
-### b. What is the Lucas supply curve and what are its implications?  How is it different from the expectations-augmented Phillips curve?
-
-
-
-
-
-
-### c. How do the implications of this model tie into the famous Lucas critique?
+#### c. How do the implications of this model tie into the famous Lucas critique?
 
