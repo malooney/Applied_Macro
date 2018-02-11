@@ -1,0 +1,29 @@
+---
+title: "Homework 2"
+author: "Matthew Aaron Looney"
+date: "2/11/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Problem 1
+
+### a. In the Lucas Imperfect Information model, producers do not observe the aggregate price level perfectly. How does this model set up a signal extraction problem and how do firms solve it?
+
+
+
+
+
+
+### b. What is the Lucas supply curve and what are its implications?  How is it different from the expectations-augmented Phillips curve?
+
+
+
+
+
+
+### c. How do the implications of this model tie into the famous Lucas critique?
+
