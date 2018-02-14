@@ -44,7 +44,7 @@ Y = \frac{M}{P} \to \ln (y) = \ln (m) - \ln (p) \tag{pg 269, 6.41: Aggregate Dem
 
 #### a. In the Lucas Imperfect Information model, producers do not observe the aggregate price level perfectly. How does this model set up a signal extraction problem and how do firms solve it?
 
-Lucas(1972) and Phelps(1970) supposed that prehaps producers do not observe the aggrigate price level perfectly.  
+Lucas(1972) and Phelps(1970) supposed that perhaps producers do not observe the aggregate price level perfectly.  
   
 The model starts with the the standard utility maximization problem of ${U_i} = {C_i} - \frac{1}{\gamma }L_i^\gamma$ (apply above assumptions; revenue over price index and output equals labor). If producers take prices as given and we assume they know their own price and price index then the utility maximizing problem for household $i$ wrt $Y_i$ is given by the following:
 
@@ -77,7 +77,7 @@ $r_i$ is the relative price of good $i$.
   
 The producers would like to use the relative price information to determine production, as seen in equation 6.75. However, since relative price is unknown the producer must estimate relative price given own price $p_i$. To this end, Lucas makes two critical assumptions: i. the producer finds the expectation of $r_i$ conditioned on $p_i$, $E[{r_i}\mid {p_i}]$; ii. monetary shock $(m)$ and $z_i$ is normally distributed.  
   
-All of this pre-formulation to demonstrate that the agent has a missing information problem. In the development of the Lucas Supply Theory, Lucas thought that since agents do not know relative prices, they can use "signal extraction" to make decesions based on own prices, $ln(p_i)$. Since the agent observers $ln(p_i)$, Lucas states that $ln(p_i)$ equals some signal ($r_i$) plus some noise, ($ln(p)$). In other words, the agents need to discover what percentage of the price change is due to inflation (nominal price change), and what percentage is due to changes in real prices. This imprecise knowledge (surprise) causes an increase in production and general employment levels.  
+All of this pre-formulation to demonstrate that the agent has a missing information problem. In the development of the Lucas Supply Theory, Lucas thought that since agents do not know relative prices, they can use "signal extraction" to make decisions based on own prices, $ln(p_i)$. Since the agent observers $ln(p_i)$, Lucas states that $ln(p_i)$ equals some signal ($r_i$) plus some noise, ($ln(p)$). In other words, the agents need to discover what percentage of the price change is due to inflation (nominal price change), and what percentage is due to changes in real prices. This imprecise knowledge (surprise) causes an increase in production and general employment levels.  
   
 #### b. What is the Lucas supply curve and what are its implications?  How is it different from the expectations-augmented Phillips curve?
 
@@ -87,9 +87,30 @@ Formally, the Lucas Supply Curve is given by the following equation:
 y = b\left( {E[{r_i}\mid {p_i}]} \right) \tag{pg 296, eq 6.84:  }
 \end{equation}
 
-The basic idea of the Lucus Supply Curve is that any departure from the normal level, which in Lucus model is zero, is an increasing function of the surprise in the price level.  
+The basic idea of the Lucas Supply Curve is that any departure from the normal level, which in Lucas model is zero, is an increasing function of the surprise in the price level.  
   
-The Lucas Supply Model is basically the same as the expectaitons augmented Phillips curve except that core inflation is replaced by expected inflation. In the Lucas Model, aggregate supply is grounded in microfoundations where in the Phillips model it is not.
+The Lucas Supply Model is basically the same as the expectations augmented Phillips curve except that core inflation is replaced by expected inflation. In the Lucas Model, aggregate supply is grounded in micro foundations where in the Phillips model it is not.
   
 #### c. How do the implications of this model tie into the famous Lucas critique?
+
+The implications of the Lucas model are based on "surprise" increases in the money supply that increase output. However, although this relationship may be true in the short run, the relationship is still a statistical relationship and does not take into consideration how people adjust to the money supply change in the longer run. In fact, during times of high inflation during the 1960's and 70's the relationship between increased money supply and output broke down leading to double digit inflation rates. In a very short amount of time people adjust their expectations so that an increase in the money supply is accounted for and the end result is null.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
