@@ -93,7 +93,7 @@ The Lucas Supply Model is basically the same as the expectations augmented Phill
   
 #### c. How do the implications of this model tie into the famous Lucas critique?
 
-The implications of the Lucas model are based on "surprise" increases in the money supply that increase output. However, although this relationship may be true in the short run, the relationship is still a statistical relationship and does not take into consideration how people adjust to the money supply change in the longer run. In fact, during times of high inflation during the 1960's and 70's the relationship between increased money supply and output broke down leading to double digit inflation rates. In a very short amount of time people adjust their expectations so that an increase in the money supply is accounted for and the end result is null.
+The implications of the Lucas model are based on "surprise" increases in the money supply that increase output. However, although this relationship may be true in the short run, the relationship is still a statistical relationship and does not take into consideration how people adjust to the money supply change in the longer run. In fact, during times of high inflation during the 1960's and 70's the relationship between increased money supply and output broke down leading to double digit inflation rates. In a very short amount of time people adjust their expectations so that an increase in the money supply is accounted for and the end result is null. In other words, the only accomplishment is to increase inflation while output remains the same.
 
 
 
