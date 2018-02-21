@@ -10,4 +10,39 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Vines, D., & Wills, S. (2018). The rebuilding macroeconomic theory project: an analytical assessment. Oxford Review of Economic Policy, 34(1-2), 1–42.
+It has been estimated that the global financial crisis has cost the world somewhere between $5-30 trillion USD. By any comparison this is a staggering loss and represents the most serious failure of economic systems since the 1920's. There were many reasons for the crisis and after action analysis is ongoing but what seems to be emerging as one of the leading causes of the crisis was the lack of macroeconomic models to account for major sections of the economy, mainly the housing sector and financial asset pricing. The singular focus of macroeconomists and central bankers, pre-crisis, was on the Dynamic Stochastic General Equilibrium model (DSGE). None of the DSGE models were capable of alerting economists to the impending crisis.  
+  
+I plan to examine the modeling paradigm pre-crisis and review the literature that has dawned as a result of the crisis. Much of this literature has been written by well-regarded macroeconomists and is highly critical of the field. The criticism cuts deep and results in a range of suggestions that include; adding elements to the DSGE framework to account for missing variables, to starting over with a completely new way to model complicated and emergent systems, ie. Agent Based Modeling.  
+  
+The tentative literature I plan to explore during the literature review follows:  
+  
+  * Vines, D., & Wills, S. (2018). The rebuilding macroeconomic theory project: an analytical assessment. Oxford Review of Economic Policy, 34(1-2), 1–42.
+    * On the future of macroeconomic models by Olivier Blanchard
+    * Ending the microfoundations hegemony by Simon Wren-Lewis
+    * Where modern macroeconomics went wrong by Joseph E. Stiglitz
+    * On the future of macroeconomics: a New Monetarist perspective by Randall Wright
+    * Is something really wrong with macroeconomics? by Ricardo Reis
+    * Good enough for government work? Macroeconomics since the crisis by Paul Krugman
+    * Stagnant productivity and low unemployment: stuck in a Keynesian equilibrium by Wendy Carlin and David Soskice
+    * Macro needs micro by Fabio Ghironi
+    * An interdisciplinary model for macroeconomics by A. G. Haldane and A. E. Turrell
+    * The  nancial system and the natural real interest rate: towards a ‘new benchmark theory model’ by David Vines and Samuel Wills
+    * DSGE models: still useful in policy analysis? by Jesper Lindé
+    * The future of macroeconomics: macro theory and models at the Bank of England by David F. Hendry and John N. J. Muellbauer
+    * Modelling a complex world: improving macro-models by Warwick J. McKibbin and Andrew Stoeckel
+
+  * Pesaran, M. H., & Smith, R. P. (2011). Beyond the DSGE straitjacket. Manchester School, 79(2), 5–16.
+  
+  * Romer, P. (2016). The Trouble with Macroeconomics. Working Paper.
+  
+  * C, M. K. (2013). Building a better model. Retrieved from https://www.economist.com/blogs/freeexchange/2013/01/remaking-macro-0
+  
+  * Wall, F. (2014). Artificial economics and self organization agent-based approaches to economics and social systems.
+  
+  * Tesfatsion, L. (2006). Agent-Based Computational Economics: A Constructive Approach to Economic Theory. Computing in Economics and Finance 2006. Society for Computational Economics.
+  
+  * Borrill, P. L., & Tesfatsion, L. (2010). Agent-Based Modeling: The Right Mathematics for the Social Sciences? Staff General Research Papers Archive. Iowa State University, Department of Economics.
+  
+  * Rand, W., & Rust, R. T. (2011). Agent-based modeling in marketing: Guidelines for rigor. International Journal of Research in Marketing, 28(3), 181–193.
+  
+  * Diamond, J. M. (2002). Archaeology: Life with the artificial Anasazi. Nature, 419(6907), 567.
