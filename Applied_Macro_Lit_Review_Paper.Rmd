@@ -1,0 +1,13 @@
+---
+title: "Picking Up the Pieces of Macro Theoery"
+subtitle: "The 2007 Crisis and Where to Go From Here?"
+author: "Matthew Aaron Looney"
+date: "2/20/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Vines, D., & Wills, S. (2018). The rebuilding macroeconomic theory project: an analytical assessment. Oxford Review of Economic Policy, 34(1-2), 1–42.
