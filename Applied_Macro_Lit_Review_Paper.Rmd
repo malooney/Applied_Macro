@@ -49,9 +49,13 @@ geometry: margin = 1.25in
 \doublespacing
 \newpage
 
-# Introduction
-
-
+# Introduction  
+  
+  
+Our ability to understand how the global financial crisis (GFC) occured is predicated on our ability to understand past financial crisis, which in turn shaped the current environment that allowed the most recent fincancial crisis. In some regard, financial crisis are cyclical. A financial crisis starts, regulators respond to the crisis by implementing policies to avoid future crisis. Economists develop new models to deal with the failing of the old models in the hopes of better predicting future crisis. Complacience sets in and regulations are picked appart which amplify the negative affects of the (more often than not) unintended consequences of well intended regulators. After sufficient time, a new crisis forms and the cycle starts anew.  
+  
+  
+Financial crisis are not a new phenomina. Since the 1920's the United States has endured a large depression a large recession, and everything in between. With each occurance regulators and economists spring into action to, understand, model and impose regulation to address failings in the economic system. Less than one hundread years ago the U.S. was in the throws of the Great Depression. By the time the depression was over John Maynard Keynes had reformulated Alfred Marshalls partial equillibrium model with the inclusion of nominal rigidities. The reformulation required Keynes to invent liquidity preferences, the consumption function and the multiplier. These components were necessary if Keynes was going to explain the Great depression with these new ideas. However, Keynes conceptual refurmulation could only go so far. A methodological reformulations was also needed if the ideas Keynes proposed were going to take hold in any meaningful way. John Hicks provided the necessary methods in his IS-LM model and the foundations for general equillibriam analysis we layed.
 
 \newpage
 # Appendix
