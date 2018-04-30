@@ -52,17 +52,19 @@ geometry: margin = 1.25in
 -----
   
   
-\qquad Our ability to understand how the global financial crisis (GFC) occured is predicated on our ability to understand past financial crisis, which in turn shaped the current environment that allowed the most recent fincancial crisis. In some regard, financial crisis are cyclical. A financial crisis starts, regulators respond to the crisis by implementing policies to avoid future crisis. Economists develop new models to deal with the failing of the old models in the hopes of better predicting future crisis. Complacience sets in and regulations are picked appart which amplify the negative affects of the (more often than not) unintended consequences of well intended regulators. After sufficient time, a new crisis forms and the cycle starts anew.  
+\qquad Our ability to understand how and why the global financial crisis (GFC) occured is predicated on our ability to understand past financial crisis, which in turn shaped the current environment that allowed the most recent fincancial crisis. In some regard, financial crisis are cyclical. A financial crisis starts, regulators respond to the crisis by implementing policies to avoid future crisis. Economists develop new models to deal with the failing of the old models in the hopes of better predicting future crisis. Complacience sets in and regulations are picked appart which amplify the negative affects of the (more often than not) unintended consequences of well intended regulators. After sufficient time, a new crisis forms and the cycle starts anew.  
   
   
-\qquad Financial crisis are not a new phenomina. Since the 1920's the United States has endured a number of them, including a large depression, a large recession, and everything in between. With each occurance regulators and economists spring to action with the hope of understanding, modeling and developing regulation to address future failings in the economic system. Less than one hundread years ago the U.S. was in the throws of the Great Depression. By the time the depression was over John Maynard Keynes had reformulated Alfred Marshalls partial equillibrium model with the inclusion of nominal rigidities. This reformulation required Keynes to invent several new concepts including liquidity preference, the consumption function and the multiplier. These components were necessary if Keynes was going to explain the Great Depression with his new ideas. However, Keynes' conceptual refurmulation would only go so far. A methodological reformulations was also needed if the ideas Keynes proposed were going to take hold in any meaningful way. John Hicks provided the necessary methods in his IS-LM model and the foundations for general equillibriam analysis were set forth.  
+\qquad Financial crisis are not a recent phenomina. Since the 1920's the United States has endured a number of them, including a large depression, a large recession, and everything in between. With each occurance regulators and economists spring to action with the hope of understanding, modeling and developing regulation to address future failings in the economic system. Less than one hundread years ago the U.S. was in the throws of the Great Depression. By the time the depression was over John Maynard Keynes had reformulated Alfred Marshalls partial equillibrium model with the inclusion of nominal rigidities. This reformulation required Keynes to invent several new concepts including liquidity preference, the consumption function and the multiplier. These components were necessary if Keynes was going to explain the Great Depression with his new ideas. However, Keynes' conceptual refurmulation would only go so far. A methodological reformulations was also needed if the ideas Keynes proposed were going to take hold in any meaningful way. John Hicks provided the necessary methods in his IS-LM model and the foundations for general equillibriam analysis were set forth.  
   
   
 \qquad After the Great Resession the economy was slow to recovery but was helped along by the start of WWII. After the war was over the economy was humming and economists were hard at work continuing to refine and devolp additions to the IS-LM frmaework. Two influential papers on stabilization ploicy were written by Phillips (1954, 1957). These papers gave policy makers what they wanted; a link between the rate of unemployment and the rate of inflation. If policy makers wanted lower levels of unemployment they could simply turn the lever and magically lower unemployment, albeit at a higher rate of inflation. The seeming sucess of the Phillips curve led to an explosion of empirical macroeconomic models including models developed by Frisch, Goldberger, Haavelmo, Klein, and Tinbergen. This work culminated in the first economy-wide macroeconomic model which was used to lend credibility to the macroeconomic policy making advicated for by the Phillips model.^[For a more detailed discussion of this model (the Federal Reserve System's MPS model) see Goodfriend and King [-@Goodfriend:1997ws] ]  
   
   
-\qquad The sucess of 
-
+\qquad However, the sucess of the early macro-models was short lived. During the 1970's and 1980's a deep recession took hold. The recession was accomanyied by high levels of unemployment and high levels of inflation. According to the prevaling macroeconomic models in current use this should not have been possioble. Macroeconomists had a very public problem on their hands. As a result of this disparity between what the phillips curve predicted should be happeneing when unemployment was high and what was actually happening; the macroeconomists needed to refine their models and fast. This gave rise to what was to become known as the New Keynesian economics. Rather than start over with a completly new model the New Keynesians got to work adding complexity to their models to explain why we might see high inflation and high unemployment. Their focus, initially, was on the idea that wages and prices must be sticky. This sticyness of wages and prices could explain, why in the short run, it was possible to have both high unemployment and high inflation. In addition to the stickyness concept, New Keynsians poured a lot of effort into development of the Dynamic Stocastic General Equillibrium (DSGE) model, a model that was destined to take ceter stage in the macroeconomic revolution. The DSGE model incorporates elements of endogenous capital stock and investment and is a microfounded representative agent model. Since the model contains both supply and demand analysis and has elements of the labor market, money market, and equity market the model is a true general equillibrium model. There is no universially agreed upon formulation as to the exact mathematical structure of the DSGE model however, most of the DSGE models contain the same basic ingredients. A short exposisiton of the DSGE model is given in Appendix A.  
+  
+  
+\qquad The trend of macroeconomics since the 1980's has been focused almost exclisivly on the DSGE model. The model has become more rich and complecated over the past several decades. As with any modeling paradigm, economic models are intended to provide simplified insight into very complicated situations and the DSGE model is no different in this regard. The problem with the DSGE model was that policy makers were starting to view the model in the same way they were viewing the Phillips curve type models pre-Great recession. Adding to the problem, economists were omitting key segments of the economy in an effort to keep the model tractable. However, this tractability came at a very sick
 
 
 
@@ -166,10 +168,13 @@ For simplicity, the individual consumers utility maximization problem is not exp
 
 
 
+
+
 ---
-nocite:
-@Phillips:1954un, 
-@Phillips:1957vd
+nocite: | 
+  @Phillips:1954un, @Phillips:1957vd
+...
+
 
 \newpage
 \singlespace
