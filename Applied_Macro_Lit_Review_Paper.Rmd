@@ -119,7 +119,6 @@ geometry: margin = 1.25in
 
 ## A new Modeling paradigm - Agent Based Modeling
 
-I am running out of room in the paper but I would like to say a few quick things about ABM and where this could go in the future. I wish I had more space but I understand you have many students papers to read...
 
 
 
