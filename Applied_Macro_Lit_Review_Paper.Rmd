@@ -90,34 +90,21 @@ geometry: margin = 1.25in
   
 \qquad The loudest criticism of the DSGE model has been the omission of financial frictions. This is an obvious first target considering the GFC started in the financial sector. This criticism is articulated in a paper by Hendry and Muellbauer [-@Hendry:2018jd]. While the authors criticism is focused on several different flavors of the DSGE model (most recently the DSGE COMPASS model) the take away from their paper is that all DSGE models failed to incorporate financial frictions. As a way to incorporate frictions into the DSGE model, Blanchard [-@Blanchard:2018ki] suggests adding liquidity constraints. Others suggests adding elements to capture debt financed investments and a mechanism to represent the financial accelerator (Carlin and Soskice 2014, 2018). Much of the literature has focused on incorporating some mechanism to capture detailed levels of financial friction. How exactly this is accomplished and to what degree are currently being debated in the literature. 
 
-\qquad The rational expectations model has been a mainstay assumption in the macroeconomics literature since its introduction by John Muth in the 1960's. The rational expectations idea has become more of a way of thinking in the economics field...
+\qquad The rational expectations model has been a mainstay assumption in the macroeconomics literature since its introduction by John Muth in the 1960's. The rational expectations idea has become more of a way of thinking in the field of economics than a modeling assumption. However, the idea of the rational agent is very much an assumption and in many situations appears to be untrue. The validity of this assumption has been called into question and many macroeconomists have suggested relaxing the rational agent assumption in future modeling efforts. The complaints about rational agents are primarily two fold. First, several authors have argued that the rational agent is too forward looking.^[The loudest argument in favor of relaxing the rational expectations assumption can be found in Stiglitz (2018). However, the theme of loosening the rational expectations assumption can also be found in Blanchard, Ghironi, and Haldane and Turrell.] In other words, agents forward looking time horizons are too far into the future. The argument is centered around the idea that if the time horizons are too far out, this will lead to unrealistic consumption and price setting behavior.^[We can think of unrealistic consumption behavior as being related to the Euler equation and we can think of unrealistic price setting behaviors as being related to Calvo contracting.] Second, @blanchard2017distortions, in a similar argument against complete rational expectations suggests employing an upper bound on time horizons to more realistically deal with incomplete information and myopia in the decision making process. While relaxing the rational expectations assumption is expected to go a long way in developing a more accurate model of the macroeconomic environment, several authors have suggested that without also relaxing the representative agent assumption there is little hope for building a more realistic DSGE model.
 
+\qquad Why use the assumption of a representative agent? The reasons for assuming a representative agent are two fold. First, many macroeconomists belief that any model developed to explain the global economy should allow for the distillation of core equations to a simple and universal formulation. The idea that “beauty is truth” is still prevalent in many scientific fields and economic social science is no exception.  A second, (and perhaps larger of the two) reason for assuming a representative agent model is for the pure tractability of the computation of the models. While it is not unreasonable to construct a baseline model with strong assumptions, these assumptions should be relaxed to build the model toward a more realistic representation of the world. Failing to relax strong assumptions in the DSGE model was driven mostly by the computational burden associated with, in this case, a heterogeneous agent model.^[However, many of the baseline assumptions in the DSGE model are driven by the manageability of the calculations. Right or wrong, these strong assumptions were so unrealistic that almost all inference based of these models was flawed at best.] With the advancements in computer hardware and computational algorithms, the concerns with model tractability are largely irrelevant. However, the DSGE models do explode in complexity when heterogeneous firms and households are incorporated. The true questions then becomes, how much realism is required to understand the salient features of the macro economy. Clearly, a representative agent model falls short in its ability to provide insights about the global economy. When we assume a representative agent, (households and firms) we are aggregating away many important features of the individual. For instance, take income as an example. As put forth in a paper by Stiglitz (2018), the distribution of income at the household and  firm level is important to understand for both demand and welfare analysis. If we take a representative agent and assume a point estimate for income the inference based on these point estimates will imply a set of policy prescriptions that may be far from the prescriptions that might be realized with a heterogeneous model. Even if we take individual country level income and the average firm in a given sector as being representative we are still smoothing away valuable information. It is not reasonable to assume all individuals living the the United Sates have a similar average income just as it is not reasonable to assume that all individuals living in China have a similar average income. The same logic applies to sectors of firms as argued by Ghironi (2018). Ravn and Sterk (2016) acknowledged that macroeconomic models have started moving in the direction of a pseudo-heterogeneous agent with the inclusion of several representations of households and firms. But they argue that the inclusion of several sectors of representative firms does little to get around the deep aggregation problem of smoothing out the important characteristics of firms and households. 
 
-
-
-
-
-
-
-\qquad Insert section on heterogeneous agents...
-
-
-
-
-
-
-\qquad Insert section on more appropriate micro-foundations...
-
-
-
-
-
-
-
-
-
+\qquad The three suggestions given above: incorporation of financial frictions, relaxing rational expectations, and allowing for heterogeneous agents are all important concepts that will move the DSGE model closer to a more realistic representation of the global economy. But perhaps the largest challenge comes when trying to incorporate aspects of micro-economic foundations. While microfounded macroeconomics is not a new concept, many authors have argued that either the micro concepts currently used in macroeconomics do not go far enough or the micro concepts that are currently used in macro models are not appropriate. Most authors agree that better micofoundations need to be integrated into the DSGE models. However, it is unclear from the literature where exactly in the DSGE model to build these concepts up. In other words, should macro modelers focus on the core benchmark model (see appendix A) or should micro-foundations be applied to the periphery of the DSGE models. Blanchard (2018) and Krugman (2018) both argue that the most appropriate location for micro concepts to be integrated into the DSGE model is in the core benchmark model. Krugman argued that the GFC occurred due, in part, to the lack of micro-foundations in the supply side of the core benchmark model and thus the majority of the focus should be on building up the supply and demand side of the core model with better micro-foundations. Balnchard agrees with Krugman's assessment of the general location of where to focus the micofoundations but argues that any new micro-foundation components need to extend beyond the simple demand and supply side price and wage setting. Blanchard argues that to ignore the costs of collecting information is likely to end in peril and advocates for micro-foundations that incorporate imperfect information. 
 
 ## A new Modeling paradigm - Agent Based Modeling
+
+
+
+
+
+
+
+
 
 
 
@@ -168,40 +155,11 @@ where, $C$, $I$, $Y$, $L$, $K$, $w$, $R$, and $Q$ are consumption, investment, o
   
 For simplicity, the individual consumers utility maximization problem is not explicitly shown. For the same reason, the representative firms profit maximization problem is not detailed. Equations 1-8 assume the first order conditions have been satisfied and equilibrium conditions exist. Another simplifying assumption is a constant labor force and the level of technology remains unchanged. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 nocite: | 
-  @Phillips:1954un, @Phillips:1957vd, @Carlin:2018ev, @carlin2014macroeconomics
+  @Phillips:1954un, @Phillips:1957vd, @Carlin:2018ev, 
+  @carlin2014macroeconomics, @stiglitz2018modern, @ghironi2018macro, 
+  @diamond2002archaeology
 ...
 
 
